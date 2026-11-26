@@ -1,0 +1,6 @@
+{
+  "name": "Lớp Học Kết Nối (Connected Classroom)",
+  "description": "Website demo nền tảng kết nối Giáo viên chủ nhiệm, Học sinh và Phụ huynh với 5 lớp học (150 học sinh), quy trình duyệt nhận xét và trợ lý soạn thảo AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
